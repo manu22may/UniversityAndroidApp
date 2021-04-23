@@ -3,4 +3,5 @@
     <string name="label">Trial</string>
     <string name="title">updated via branch</string>
     <string name="newTitle">Android</string>
+    <string name="anotherTitle">iOS</string>
 </resources>
