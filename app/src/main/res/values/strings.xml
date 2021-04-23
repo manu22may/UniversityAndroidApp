@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">UniversityApp</string>
     <string name="label">Trial</string>
-    <string name="title">Added via feature2 branch</string>
+    <string name="title">updated via branch</string>
+    <string name="newTitle">Android</string>
+    <string name="anotherTitle">iOS</string>
     <string name="name">Aman Shaji</string>
 </resources>
